@@ -25,3 +25,5 @@ If you wish to execute the program using python3 interpreter, you can find the P
 ```python3 source/PerseumAI.py```
 
 **WARNING**: This tool has the sole purpose of serving as an aid for those stock market operations that you wish to carry out. Any damage or loss caused by this tool does not fall under the responsability of the tool itself, nor of the development team.
+
+Official thesis report: https://riull.ull.es/xmlui/handle/915/29420
